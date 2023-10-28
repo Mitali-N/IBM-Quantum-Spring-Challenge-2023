@@ -1,7 +1,7 @@
 # IBM-Quantum-Spring-Challenge-2023
 Implementation of Dynamic circuits on Qiskit
 
-Notebooks for all the 4 labs required to complete the challenge + the 5<sup>th</sup> Bonus Lab.
+This repository contains notebooks for all the 4 labs required to complete the challenge + the 5<sup>th</sup> Bonus Lab.
 
 - Lab 1 - Introduction to Dynamic Circuits
 - Lab 2 - Quantum Teleportation 
