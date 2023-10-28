@@ -1,5 +1,6 @@
 # IBM-Quantum-Spring-Challenge-2023
-All the 4 labs required to complete the challenge + the 5<sup>th</sup> Bonus Lab.
+Implementation of Dynamic circuits on Qiskit
+Notebooks for all the 4 labs required to complete the challenge + the 5<sup>th</sup> Bonus Lab.
 
 - Lab 1 - Introduction to Dynamic Circuits
 - Lab 2 - Quantum Teleportation 
@@ -7,4 +8,4 @@ All the 4 labs required to complete the challenge + the 5<sup>th</sup> Bonus Lab
 - Lab 4 - Error Correction
 - Lab 5 (Bonus Lab) - Using 127 Qubits
 
-Note: Few cells were re-run after the challenge was over, hence some of them show 'INVALID_QUERY' or 'Provider not defined' errors. (This is because IBM disabled access to servers once the challenge was over).
+Note: Few cells were re-run after the challenge was over, hence some of them show 'INVALID_QUERY' or 'Provider not defined' errors. 
